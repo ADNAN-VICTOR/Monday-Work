@@ -5,6 +5,12 @@ body{
 p{
   font-size: 150%;
 }
+a:link {
+  color: white;
+}
+a:visited{
+  color: black;
+}
 #JohnD {
   display: flex;
   justify-content: space-evenly;
