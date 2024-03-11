@@ -25,6 +25,8 @@ p{
   margin-top: 2%;
   align-items: end;
   justify-items: end;
+  overflow: hidden;
+  display: inline-block;
 }
 #ABTME {
   text-align: center;
@@ -96,11 +98,11 @@ ol{
 label{
   color: black;
   font-size: 150%;
-  margin-left: 20%;
+  margin-left: 25%;
 }
 input{
   margin-top: 0.5%;
-  margin-left: 20%;
+  margin-left: 25%;
   margin-bottom: 0.5%;
   width: 50%;
   height: 100%;
@@ -109,7 +111,7 @@ input{
   display: flex;
   align-items: center;
   margin-top: 2%;
-  margin-left: 20%;
+  margin-left: 25%;
   height: 150px;
   width: 50%;
   background-color: rgb(255, 255, 255);
@@ -119,7 +121,7 @@ input{
 }
 button{
   text-align: center;
-  margin-left: 20%;
+  margin-left: 25%;
   margin-top: 2%;
   width: 50%;
   height: 50px;
